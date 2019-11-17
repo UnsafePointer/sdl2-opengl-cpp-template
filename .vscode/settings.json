@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "*.tpp": "cpp"
+        "*.tcc": "cpp",
+        "ostream": "cpp"
     },
-    "terminal.integrated.shell.windows": "cmd.exe"
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools"
 }

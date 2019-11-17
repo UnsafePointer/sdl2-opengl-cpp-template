@@ -64,8 +64,6 @@
 
 # End of https://www.gitignore.io/api/c++,linux,visualstudiocode
 
-# Binary
-bin/*
+# build
+build/*
 
-# glad
-glad/
